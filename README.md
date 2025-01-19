@@ -1,7 +1,15 @@
 This repository contains supplementary materials and detailed information related to the finite element model analysis, conducted in AKMCS reliability study for the Hercilio Liz Bridge Access Span. 
 
-The findings can be found in https://repositorio.ufsc.br/handle/123456789/261270.
+The findings can be found in https://repositorio.ufsc.br/handle/123456789/261270 (in portuguese).
 
 Contents:
-1 - UQLab Extension Input Files: Written in MATLAB, these files detail the comprehensive analysis processes and methods utilized in the study.
-2 - APDL Input Files: Provided to facilitate the reproducibility of the study's findings.
+01 - APDL_testerob.apdl.txt (FEA Ansys input file)
+02 - cmdansys.bat (Routine to initialize Ansys in batch file)
+03 - LSF.m (Limit state function definition to be called by UQLab)
+04 - results_AKMCS.mat (AKMCS analysis results)
+05 - PROPSEC.MAC (A macro that gives section properties for the APDL input file)
+06 - uq_figure_1.fig (Convergence graph MATLAB figure)
+07 - uq_figure_1.png (Convergence graph in PNG format)
+08 - uq_readOuput.m (A routine that reads the meta-modeling response)
+09 - variable.txt (Temporarily saves a realization for the random vector X)
+10 - VariableToAPDL_R01.py (It reads the values for each X random vector realization and substitutes into the APDL input file)

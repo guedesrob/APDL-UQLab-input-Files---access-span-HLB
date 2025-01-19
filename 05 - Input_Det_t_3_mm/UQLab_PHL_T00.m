@@ -301,4 +301,4 @@ elapsed_time_in_minutes = elapsed_time / 60;   % Converte o tempo decorrido para
 disp(['Tempo decorrido: ', num2str(elapsed_time_in_minutes), ' minutos']);
 
 
-save('resultados_AKMCS.mat');
+save('results_AKMCS.mat');
