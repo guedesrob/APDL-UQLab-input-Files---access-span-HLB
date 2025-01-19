@@ -1,0 +1,1 @@
+"C:\ANSYS Inc\v182\ansys\bin\winx64\MAPDL.exe"  -p ansys -np 12 -lch -dir "C:\Users\Java-Core 1\Desktop\Roberto\testerob1" -j "zteste" -s read -l en-us -b -i "C:\Users\Java-Core 1\Desktop\Roberto\testerob1\APDL_testerob1.apdl.txt" -o "C:\Users\Java-Core 1\Desktop\Roberto\testerob1\zteste"
