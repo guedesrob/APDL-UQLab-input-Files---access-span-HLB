@@ -2,7 +2,7 @@ This repository contains supplementary materials and detailed information relate
 
 The findings can be found in https://repositorio.ufsc.br/handle/123456789/261270 (in portuguese).
 
-Contents of each folder:
+Content of each folder:
 
 01 - APDL_testerob.apdl.txt (FEA Ansys input file)
 
